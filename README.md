@@ -1,1 +1,2 @@
 # sync-digest
+Sync check
